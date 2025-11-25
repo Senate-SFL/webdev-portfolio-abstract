@@ -480,6 +480,9 @@
         padding-left: 10px;
         padding-right: 10px;
     }
+    .footer__col, .footer__col2 {
+        height: 200px;
+    }
 }
 
 
